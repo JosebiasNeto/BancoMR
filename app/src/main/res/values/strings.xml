@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Banco MR</string>
+    <string name="txt_saldo">Saldo Disponível</string>
+    <string name="txt_saldo_value">R$ 1.500,00</string>
 </resources>
