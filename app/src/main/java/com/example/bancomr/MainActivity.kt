@@ -19,5 +19,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+
+        binding.ivFatura.setOnClickListener{
+            val intent = Intent(this, Fatura::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
 }
